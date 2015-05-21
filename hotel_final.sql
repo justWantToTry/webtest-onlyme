@@ -1,0 +1,3 @@
+INSERT INTO `Hotel` (`hotelID`,`hotelName`,`city`,`hotelPhone`,`hotelAddress`,`hotelImg`) VALUES ('0001','QingLv','Waterloo','2261234567','100 Waterloo, ON','hotel_sample.jpg');
+INSERT INTO `Hotel` (`hotelID`,`hotelName`,`city`,`hotelPhone`,`hotelAddress`,`hotelImg`) VALUES ('0002','QingLv','Kitchener','2261234567','100 Kitchener, ON','hotel_sample.jpg');
+INSERT INTO `Hotel` (`hotelID`,`hotelName`,`city`,`hotelPhone`,`hotelAddress`,`hotelImg`) VALUES ('0003','Suba','Waterloo','2261234567','200 Waterloo, ON','hotel_sample.jpg');

@@ -1,0 +1,2 @@
+INSERT INTO `Guest` (`guestName`,`guestPassword`,`guestAddress`,`guestAffilication`) VALUES ('David','12345','10 Columbia Toronto','TORONTO GENERATION');
+INSERT INTO `Guest` (`guestName`,`guestPassword`,`guestAddress`,`guestAffilication`) VALUES ('Janny','12345','12 Philip Waterloo','Waterloo GENERATION');

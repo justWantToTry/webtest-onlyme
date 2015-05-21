@@ -1,0 +1,10 @@
+INSERT INTO `Booking` (`hotelID`,`roomNo`,`guestID`,`startDate`,`endDate`) VALUES ('0001','1001','1','2012-12-25','2013-01-08');
+INSERT INTO `Booking` (`hotelID`,`roomNo`,`guestID`,`startDate`,`endDate`) VALUES ('0001','1001','1','2013-01-10','2013-03-30');
+INSERT INTO `Booking` (`hotelID`,`roomNo`,`guestID`,`startDate`,`endDate`) VALUES ('0002','2001','1','2012-12-25','2013-01-08');
+INSERT INTO `Booking` (`hotelID`,`roomNo`,`guestID`,`startDate`,`endDate`) VALUES ('0002','2002','1','2012-12-25','2013-01-08');
+INSERT INTO `Booking` (`hotelID`,`roomNo`,`guestID`,`startDate`,`endDate`) VALUES ('0002','2003','1','2012-12-25','2013-01-08');
+INSERT INTO `Booking` (`hotelID`,`roomNo`,`guestID`,`startDate`,`endDate`) VALUES ('0002','2004','1','2012-12-25','2013-01-08');
+INSERT INTO `Booking` (`hotelID`,`roomNo`,`guestID`,`startDate`,`endDate`) VALUES ('0003','3001','2','2012-12-25','2013-01-08');
+INSERT INTO `Booking` (`hotelID`,`roomNo`,`guestID`,`startDate`,`endDate`) VALUES ('0003','3002','2','2012-12-25','2013-01-08');
+INSERT INTO `Booking` (`hotelID`,`roomNo`,`guestID`,`startDate`,`endDate`) VALUES ('0003','3003','2','2012-12-25','2013-01-08');
+INSERT INTO `Booking` (`hotelID`,`roomNo`,`guestID`,`startDate`,`endDate`) VALUES ('0003','3004','2','2012-12-25','2013-01-08');
